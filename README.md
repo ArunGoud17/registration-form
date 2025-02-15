@@ -25,3 +25,10 @@ Mongoose: ODM (Object Data Modeling) library for MongoDB and Node.js
 Body-Parser: Middleware for parsing incoming request bodies
 
 bcryptjs: Library for hashing and comparing passwords
+
+
+**Localhost Path**
+After starting the server, you can navigate to the following URLs:
+
+**Registration Form:**
+Open http://localhost:8085 in your browser. This is the homepage where the registration form will be displayed. Here, you can fill out your information to register.
